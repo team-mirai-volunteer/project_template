@@ -11,6 +11,7 @@
   - `PULL_REQUEST_TEMPLATE.md`: PRテンプレート
   - `ISSUE_TEMPLATE/`: 各種Issueテンプレート
   - `workflows/`: GitHub Actionsワークフロー
+- `LICENSE`: ライセンス、デフォルトはMITにしていますがWebサービス系は大体AGPLです
 
 ## 使い方
 
